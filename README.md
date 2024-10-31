@@ -4,6 +4,14 @@
 
 Based on the research from the paper ["Playing Atari with Deep Reinforcement Learning"](https://arxiv.org/abs/1312.5602), our objective is to implement a reinforcement learning agent using Deep Q-Learning (DQN) capable of playing Pong. This foundational work demonstrates how deep Q-networks can effectively learn to play Atari games, including Pong, using a convolutional neural network as a Q-function approximator. Our implementation follows a similar approach, leveraging the Arcade Learning Environment (ALE) to provide a framework for Atari game interactions and support for training DQN agents.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e833b31-fdf6-403a-80b3-4779beb8c0b7" width="400" />
+</p>
+
+
+
+
 # Repository Architecture for Pong AI
 
 This repository contains files and assets related to developing a deep Q-learning agent to play the game Pong. Below is a breakdown of the key components:
